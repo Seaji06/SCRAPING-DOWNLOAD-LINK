@@ -1,4 +1,4 @@
-# Dictation Speech Automation for [vk.com/](https://vk.com/guitars_lessons)
+# Scraping download links for [vk.com/](https://vk.com/guitars_lessons)
 
 ⚠️ **PRIVATE REPOSITORY - CONFIDENTIAL** ⚠️
 
